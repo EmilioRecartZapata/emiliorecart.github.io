@@ -2,4 +2,4 @@ title: Emilio Recart
 # path of the imate logo:
 description: Data Scientist
 show_downloads: true
-theme: jekyll-remote-minimal  
+remote_theme: pages-themes/minimal@v0.2.0
