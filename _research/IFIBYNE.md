@@ -1,6 +1,6 @@
 ---
 title: "Institute of Phisiology, Biology and Neuroscience"
-collection: publications
+collection: research
 permalink: /research/IFIBYNE
 excerpt: 'Subjective texts have been extensively studied due to theirpotential to influence behaviors. While most research has focused onuser-generated texts in social networks, other types of texts, such asnews headlines expressing opinions on certain topics, can also influencejudgment criteria during political decisions. In this paper, we addressthe task of Targeted Sentiment Analysis for news headlines related tothe 2019 Argentinean Presidential Elections, published bymajor newsoutlets. To facilitate research in this area, we present a polarity datasetcomprising 1,976 headlines that mention candidates at the target level.Our experiments using state-of-the-art classification algorithms basedon pre-trained language models demonstrate the usefulness of target in-formation for this task. We also provide public access to our data andmodels to foster further research'
 date: 2021
