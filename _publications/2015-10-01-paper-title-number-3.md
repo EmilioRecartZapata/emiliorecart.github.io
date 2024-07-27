@@ -1,13 +1,12 @@
 ---
-title: "Paper Title Number 3"
+title: "Efectos de la necesidad cierre cognitivo en los estilos decisorios: un abordaje exploratorio"
 collection: publications
 permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+excerpt: 'Los estilos decisorios se refieren a patrones cognitivos habituales que utilizan los sujetos en tareas decisorias cuando procesan la información. Recientes investigaciones han referido el rol que cumple la motivación epistémica de la Necesidad de Cierre Cognitivo en el procesamiento de la información. Esta influencia puede generar un procesamiento sesgado afectando la toma de decisiones. Esto se debe a que la NCC trae dos consecuencias en el procesamiento de la información. La primera es la Urgencia donde los individuos tienden a una búsqueda generalizada de la información generando mayores hipótesis hasta superar el umbral cognitivo. La segunda refiere a la Permanencia donde una vez superado el umbral, la información se cristaliza y se extrapola a otras áreas. El presente estudio exploratorio, tuvo como objetivo explorar la relación entre la Necesidad Cierre Cognitivo y los Estilos decisorios. Para ello, se tomó muestra de 378 individuos residentes en Ciudad de Buenos Aires y Gran Buenos Aires. Se utilizaron para evaluar las variables el Test Revisado de Necesidad de cierre cognitivo (TR NCC) y la escala de Estilos Decisorios (ED).Los resultados indican que si bien no existe una relación contundente entre ambas variables, este abordaje exploratorio debe seguir siendo explorado en futuras investigaciones.'
+date: 2021-01-01
+venue: 'PSOCIAL'
+paperurl: 'http://www.scielo.org.ar/scielo.php?pid=S2422-619X2021000200027&script=sci_arttext'
+citation: 'Alves Salgueiro, T., Recart Zapata, E., Furman, D., Pérez, J. M., & Fernández Larrosa, P. N. (2022). A Spanish dataset for Targeted Sentiment Analysis of political headlines. In Simposio Argentino de Inteligencia Artificial (ASAI 2022)-JAIIO 51 (Modalidad virtual y presencial (UAI), octubre 2022).'
 ---
 
 The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
