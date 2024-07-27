@@ -12,4 +12,11 @@ I am finishing my specialization in Data Science and Data Applied to Behavioral 
 
 I graduated in 2021 (GE = 8.21). Since the same year, I have been working as a lecturer in Research Methodology at the University of Buenos Aires. Since 2022 I am teaching General Psychology 1 and 2 at Maimonides Universisty. 
 
-
+---
+permalink: /
+title: "About my research"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
