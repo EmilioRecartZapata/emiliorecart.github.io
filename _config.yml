@@ -21,10 +21,10 @@ repository               : ""
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/myself.png"
+  avatar           : "images/myself.jpg"
   name             : "Emilio Recart"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Psychologist Specialized in Data Science Applied to Behavioral and Psychological problems"
   location         : "Earth"
   employer         : "University of Buenos Aires"
   uri              : # URL
