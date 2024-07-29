@@ -87,30 +87,33 @@ Year: 2019
 ---
 # Conference Presentations 
 
-#### Salgueiro, T. A., Caramés, M. A., Recart, E., & Larrosa, P. N. F. (2023). COMPLEX DECISION-MAKING COULD BE INDUCED BY PRIMING BUT PREVENTED BY TOP-DOWN MODULATION. IBRO Neuroscience Reports, 15, S824-S825
+### 2024. 
+ Recart, E., Broggi, D., Furman, D., Perez, J. M., & Larrosa, P. N. F. (2024). Role of the media in the 2023 electoral agenda. SCT Proceedings in Interdisciplinary Insights and Innovations, 2, 300-300.
+
+ Carames, A., Nogueroles, P., Recart, E., Cruzado, M., Valderrama, C. L. M., Salgueiro, T. A., ... & Larrosa, P. N. F. (2024). Gender at the causal basis of the new libertarian right. SCT Proceedings in Interdisciplinary Insights and Innovations, 2, 258-258.
 
 
-#### Recart, E., Broggi, D., Furman, D., Perez, J. M., & Larrosa, P. N. F. (2024). Role of the media in the 2023 electoral agenda. SCT Proceedings in Interdisciplinary Insights and Innovations, 2, 300-300.
+### 2023
 
+ Salgueiro, T. A., Caramés, M. A., Recart, E., & Larrosa, P. N. F. (2023). COMPLEX DECISION-MAKING COULD BE INDUCED BY PRIMING BUT PREVENTED BY TOP-DOWN MODULATION. IBRO Neuroscience Reports, 15, S824-S825
 
+### 2021
 
-#### Carames, A., Nogueroles, P., Recart, E., Cruzado, M., Valderrama, C. L. M., Salgueiro, T. A., ... & Larrosa, P. N. F. (2024). Gender at the causal basis of the new libertarian right. SCT Proceedings in Interdisciplinary Insights and Innovations, 2, 258-258.
+ Casas, A, Recart, E & País, A. Understanding consciousness: global workspace theory and information integration. XIII International Congress of Research and Professional Practice in Psychology. XXVII Research Conference. XVII Meeting of Researchers in Psychology of MERCOSUR. III Conference on Occupational Therapy Research. III Meeting on Music Therapy
 
+ Sainz, A, Chianetta, M, Correa, M, Casas, A, Recart, E, País, A, Bruno, N & Andreau, M. Can aesthetic judgments be subliminally modulated? An affective priming thought pupillometry study. XII International Congress of Research and Professional Practice in Psychology. XXVI Research Conference. XVI Meeting of Researchers in Psychology of MERCOSUR. Meeting of Research in Occupational Therapy. II Meeting of Music Therapy
 
-#### Bernal, F, Alves Salguiero, T, Brzostowski, A, Caramés, MA, Recart, E, Furman, D, Pérez, JM, Fernández Larrosa, PN. Complex decision making is facilitated by social modulation. Argentine Society of Neurosciences, Buenos Aires, 2020.
+### 2020
+
+ Bernal, F, Alves Salguiero, T, Brzostowski, A, Caramés, MA, Recart, E, Furman, D, Pérez, JM, Fernández Larrosa, PN. Complex decision making is facilitated by social modulation. Argentine Society of Neurosciences, Buenos Aires, 2020.
 
 #### Recart, E, Passero, M and Jaume, L. Effects of the Need for Cognitive Closure on DecisionMaking Style: an exploratory approach. XIII International Congress of Research and Professional Practice in Psychology. XXVII Research Conference. XVII Meeting of Researchers in Psychology of MERCOSUR. III Conference on Occupational Therapy Research. III Meeting on Music Therapy.
 
+### 2019
 
-#### Casas, A, Recart, E & País, A. Understanding consciousness: global workspace theory and information integration. XIII International Congress of Research and Professional Practice in Psychology. XXVII Research Conference. XVII Meeting of Researchers in Psychology of MERCOSUR. III Conference on Occupational Therapy Research. III Meeting on Music Therapy
+Passero, M, Recart, E & Jaume, J. Questioning Dimensionality in the Need for Cognitive Closure. 2nd CLACIP Social Congress and 4th Latin American Congress for the Advancement of Psychological Sciences (Autonomous City of Buenos Aires, Monday, December 28, 2020).
 
+ Recart, E, Passero, M, Jaume, J. Motivational aspects of the Lay Epistemic Theory as a preponderant factor in the acquisition of knowledge. 2 Jornada Social CLACIP and 4th Latin American Congress for the Advancement of Psychological Sciences (Autonomous City of Buenos Aires, Monday, December 28, 2020).
 
-#### Sainz, A, Chianetta, M, Correa, M, Casas, A, Recart, E, País, A, Bruno, N & Andreau, M. Can aesthetic judgments be subliminally modulated? An affective priming thought pupillometry study. XII International Congress of Research and Professional Practice in Psychology. XXVI Research Conference. XVI Meeting of Researchers in Psychology of MERCOSUR. Meeting of Research in Occupational Therapy. II Meeting of Music Therapy
-
-#### Passero, M, Recart, E & Jaume, J. Questioning Dimensionality in the Need for Cognitive Closure. 2nd CLACIP Social Congress and 4th Latin American Congress for the Advancement of Psychological Sciences (Autonomous City of Buenos Aires, Monday, December 28, 2020).
-
-#### Recart, E, Passero, M, Jaume, J. Motivational aspects of the Lay Epistemic Theory as a preponderant factor in the acquisition of knowledge. 2 Jornada Social CLACIP and 4th Latin American Congress for the Advancement of Psychological Sciences (Autonomous City of Buenos Aires, Monday, December 28, 2020).
-
-
-#### Azzollini, A, Depaula, P, Pupko, V, Vidal, A & Recart, E (2019). Correlational analysis of the effectiveness in the application of psychological first aid and urgent decision-making styles in rescuers. XI International Congress of Research and Professional Practice in Psychology. XXVI Research Congress. XV Meeting of Researchers in Psychology of MERCOSUR. Meeting of Research in Occupational Therapy. I Meeting on Music Therapy
+ Azzollini, A, Depaula, P, Pupko, V, Vidal, A & Recart, E (2019). Correlational analysis of the effectiveness in the application of psychological first aid and urgent decision-making styles in rescuers. XI International Congress of Research and Professional Practice in Psychology. XXVI Research Congress. XV Meeting of Researchers in Psychology of MERCOSUR. Meeting of Research in Occupational Therapy. I Meeting on Music Therapy
 
