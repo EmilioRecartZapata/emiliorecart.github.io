@@ -11,6 +11,7 @@ locale                   : "en-US"
 title                    : "Emilio Recart's Homepage"
 title_separator          : "-"
 name                     : &name "Emilio Recart"
+theme                    : jekyll-theme-cayman
 description              : &description "Psychologist"
 url                      : https://emiliorecartzapata.github.io/emiliorecart.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
