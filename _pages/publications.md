@@ -16,13 +16,13 @@ author_profile: true
 
 
 
- date: 2022-10-25.
+ *Date:* 2022-10-25.
 
 
  **Journal**: *Scientific Reports*.
 
 
- citation: *Bernal, F. A., Salgueiro, T. A., Brzostowski, A., Zapata, E. R., Carames, A., Pérez, J. M., ... & Larrosa, P. N. F. (2022). Top-down modulation impairs priming susceptibility in complex decision-making with social implications. Scientific Reports, 12(1), 17867.*
+ **Citation:** *Bernal, F. A., Salgueiro, T. A., Brzostowski, A., Zapata, E. R., Carames, A., Pérez, J. M., ... & Larrosa, P. N. F. (2022). Top-down modulation impairs priming susceptibility in complex decision-making with social implications. Scientific Reports, 12(1), 17867.*
 
 ## [A Spanish dataset for Targeted Sentiment Analysis of political headlines]('https://publicaciones.sadio.org.ar/index.php/EJS/article/view/467)
 *Abstract*.
@@ -30,7 +30,7 @@ author_profile: true
 Subjective texts have been extensively studied due to theirpotential to influence behaviors. While most research has focused onuser-generated texts in social networks, other types of texts, such asnews headlines expressing opinions on certain topics, can also influencejudgment criteria during political decisions. In this paper, we addressthe task of Targeted Sentiment Analysis for news headlines related tothe 2019 Argentinean Presidential Elections, published bymajor newsoutlets. To facilitate research in this area, we present a polarity datasetcomprising 1,976 headlines that mention candidates at the target level.Our experiments using state-of-the-art classification algorithms basedon pre-trained language models demonstrate the usefulness of target in-formation for this task. We also provide public access to our data andmodels to foster further research.
 
 
-date: 2023-05-01.
+**Date:** 2023-05-01.
 
 
 
@@ -38,7 +38,7 @@ date: 2023-05-01.
 
 
 
-citation: *Pérez, J. M., Zapata, E. R., Salgueiro, T. A., Furman, D., & Larrosa, P. N. F. (2023). A Spanish dataset for Targeted Sentiment Analysis of political headlines. Electronic Journal of SADIO (EJS), 22(1), 53-66*.
+**Citation:** *Pérez, J. M., Zapata, E. R., Salgueiro, T. A., Furman, D., & Larrosa, P. N. F. (2023). A Spanish dataset for Targeted Sentiment Analysis of political headlines. Electronic Journal of SADIO (EJS), 22(1), 53-66*.
 
 
 ## [Efectos de la necesidad cierre cognitivo en los estilos decisorios: un abordaje exploratorio]('https://publicaciones.sadio.org.ar/index.php/EJS/article/view/467)
@@ -47,13 +47,13 @@ citation: *Pérez, J. M., Zapata, E. R., Salgueiro, T. A., Furman, D., & Larrosa
 Los estilos decisorios se refieren a patrones cognitivos habituales que utilizan los sujetos en tareas decisorias cuando procesan la información. Recientes investigaciones han referido el rol que cumple la motivación epistémica de la Necesidad de Cierre Cognitivo en el procesamiento de la información. Esta influencia puede generar un procesamiento sesgado afectando la toma de decisiones. Esto se debe a que la NCC trae dos consecuencias en el procesamiento de la información. La primera es la Urgencia donde los individuos tienden a una búsqueda generalizada de la información generando mayores hipótesis hasta superar el umbral cognitivo. La segunda refiere a la Permanencia donde una vez superado el umbral, la información se cristaliza y se extrapola a otras áreas. El presente estudio exploratorio, tuvo como objetivo explorar la relación entre la Necesidad Cierre Cognitivo y los Estilos decisorios. Para ello, se tomó muestra de 378 individuos residentes en Ciudad de Buenos Aires y Gran Buenos Aires. Se utilizaron para evaluar las variables el Test Revisado de Necesidad de cierre cognitivo (TR NCC) y la escala de Estilos Decisorios (ED).Los resultados indican que si bien no existe una relación contundente entre ambas variables, este abordaje exploratorio debe seguir siendo explorado en futuras investigaciones.
 
 
-date: 2021-01-01.
+**Date:** 2021-01-01.
 
 
 **Journal**: *PSOCIAL*.
 
 
-*citation*: *Alves Salgueiro, T., Recart Zapata, E., Furman, D., Pérez, J. M., & Fernández Larrosa, P. N. (2022). A Spanish dataset for Targeted Sentiment Analysis of political headlines. In Simposio Argentino de Inteligencia Artificial (ASAI 2022)-JAIIO 51 (Modalidad virtual y presencial (UAI), octubre 2022).*
+**Citation:** *Alves Salgueiro, T., Recart Zapata, E., Furman, D., Pérez, J. M., & Fernández Larrosa, P. N. (2022). A Spanish dataset for Targeted Sentiment Analysis of political headlines. In Simposio Argentino de Inteligencia Artificial (ASAI 2022)-JAIIO 51 (Modalidad virtual y presencial (UAI), octubre 2022).*
 
 ---
 # Posters
@@ -107,7 +107,7 @@ Year: 2019
 
  Bernal, F, Alves Salguiero, T, Brzostowski, A, Caramés, MA, Recart, E, Furman, D, Pérez, JM, Fernández Larrosa, PN. Complex decision making is facilitated by social modulation. Argentine Society of Neurosciences, Buenos Aires, 2020.
 
-#### Recart, E, Passero, M and Jaume, L. Effects of the Need for Cognitive Closure on DecisionMaking Style: an exploratory approach. XIII International Congress of Research and Professional Practice in Psychology. XXVII Research Conference. XVII Meeting of Researchers in Psychology of MERCOSUR. III Conference on Occupational Therapy Research. III Meeting on Music Therapy.
+ Recart, E, Passero, M and Jaume, L. Effects of the Need for Cognitive Closure on DecisionMaking Style: an exploratory approach. XIII International Congress of Research and Professional Practice in Psychology. XXVII Research Conference. XVII Meeting of Researchers in Psychology of MERCOSUR. III Conference on Occupational Therapy Research. III Meeting on Music Therapy.
 
 ### 2019
 
