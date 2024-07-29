@@ -28,6 +28,8 @@ I graduated in 2021 (GE = 8.21). Since the same year, I have been working as a l
 ### Effectiveness od Decision Making in Psychological First Aid intervention of Volunteers in Disaster Situations according to their coping strategies, predominant decision styles and personality- University of Buenos Aires (2018-2019)
 
 ---
+
+
 # Lates News! 
 
 
