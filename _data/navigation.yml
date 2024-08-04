@@ -24,7 +24,13 @@ main:
 #    url: /year-archive/
     
   - title: "Resume"
-    url: /files/Recart_Emilio_July_2024_EN.pdf
+    dropdown: true
+    links:
+      - title: "Resume (English)"
+        url: /files/Recart_Emilio_ENG.pdf
+      - title: "CV (Español)"
+        url: /files/Recart_Emilio_ESP.pdf
+
     
  # - title: "Guide"
 #  url: /markdown/
